@@ -1,4 +1,4 @@
-package data;
+package core.genetaors.data;
 
 import java.util.HashMap;
 import java.util.LinkedList;
