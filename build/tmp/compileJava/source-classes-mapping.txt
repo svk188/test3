@@ -1,0 +1,320 @@
+jm/midi/event/NoteOn.java
+ jm.midi.event.NoteOn
+jm/constants/Chords.java
+ jm.constants.Chords
+jm/gui/cpn/AppletImages.java
+ jm.gui.cpn.AppletImages
+jm/gui/cpn/PianoStave.java
+ jm.gui.cpn.PianoStave
+jm/constants/Progressions.java
+ jm.constants.Progressions
+jm/gui/cpn/JGrandStave.java
+ jm.gui.cpn.JGrandStave
+ jm.gui.cpn.JGrandStave$1
+ jm.gui.cpn.JGrandStave$2
+ jm.gui.cpn.JGrandStave$RedFilter
+jm/midi/event/ATouch.java
+ jm.midi.event.ATouch
+player/RealtimePlayer.java
+ player.RealtimePlayer
+util/SimpleAudioRecorder.java
+ util.SimpleAudioRecorder
+jm/music/data/CPhrase.java
+ jm.music.data.CPhrase
+player/Player.java
+ player.Player
+core/data/Melisma.java
+ core.data.Melisma
+jm/midi/event/CPres.java
+ jm.midi.event.CPres
+gui/LoadingWindow.java
+ gui.LoadingWindow
+jm/gui/cpn/KeyChangeListener.java
+ jm.gui.cpn.KeyChangeListener
+jm/constants/RhythmValues.java
+ jm.constants.RhythmValues
+jm/midi/MidiParser.java
+ jm.midi.MidiParser
+ jm.midi.MidiParser$1CompareKey
+ jm.midi.MidiParser$1EventPair
+jm/gui/cpn/CpnZoomScreen.java
+ jm.gui.cpn.CpnZoomScreen
+core/data/Settings.java
+ core.data.Settings
+core/generators/dodecaphony/DodecaphonySeriesGenerator.java
+ core.generators.dodecaphony.DodecaphonySeriesGenerator
+jm/midi/event/Event.java
+ jm.midi.event.Event
+jm/music/data/Rest.java
+ jm.music.data.Rest
+jm/constants/Instruments.java
+ jm.constants.Instruments
+jm/gui/cpn/TrebleStave.java
+ jm.gui.cpn.TrebleStave
+ jm.gui.cpn.TrebleStave$Accidental
+ jm.gui.cpn.TrebleStave$Style
+ jm.gui.cpn.TrebleStave$Style$JMusic
+ jm.gui.cpn.TrebleStave$Style$Trad
+core/data/structure/MotiveStructure.java
+ core.data.structure.MotiveStructure
+jm/constants/Tunings.java
+ jm.constants.Tunings
+core/generators/dodecaphony/Dodecaphonizer.java
+ core.generators.dodecaphony.Dodecaphonizer
+jm/constants/Pitches.java
+ jm.constants.Pitches
+main/Main.java
+ main.Main
+jm/music/data/Anchoring.java
+ jm.music.data.Anchoring
+core/data/PNote.java
+ core.data.PNote
+jm/gui/cpn/ParmScreen.java
+ jm.gui.cpn.ParmScreen
+jm/midi/event/SysEx.java
+ jm.midi.event.SysEx
+core/data/patterns/SNPattern.java
+ core.data.patterns.SNPattern
+jm/midi/MidiCommunication.java
+ jm.midi.MidiCommunication
+ jm.midi.MidiCommunication$1
+ jm.midi.MidiCommunication$2
+core/data/structure/PhraseStructure.java
+ core.data.structure.PhraseStructure
+core/generators/MotivesGenerator.java
+ core.generators.MotivesGenerator
+jm/constants/Articulations.java
+ jm.constants.Articulations
+jm/constants/Panning.java
+ jm.constants.Panning
+core/data/tonality/MinorTonality.java
+ core.data.tonality.MinorTonality
+core/generators/BaseVoiceGenerator.java
+ core.generators.BaseVoiceGenerator
+jm/music/tools/QuantisationException.java
+ jm.music.tools.QuantisationException
+gui/GBC.java
+ gui.GBC
+jm/music/tools/Mod.java
+ jm.music.tools.Mod
+player/SheetOutputPlayer.java
+ player.SheetOutputPlayer
+util/Tools.java
+ util.Tools
+jm/gui/cpn/Notate.java
+ jm.gui.cpn.Notate
+ jm.gui.cpn.Notate$PlayRepeater
+jm/gui/cpn/NoteEditor.java
+ jm.gui.cpn.NoteEditor
+jm/gui/cpn/StaveActionHandler.java
+ jm.gui.cpn.StaveActionHandler
+core/data/chords/Chord.java
+ core.data.chords.Chord
+jm/music/tools/NoteListException.java
+ jm.music.tools.NoteListException
+gui/InstrumentPanel.java
+ gui.InstrumentPanel
+ gui.InstrumentPanel$1
+ gui.InstrumentPanel$2
+ gui.InstrumentPanel$3
+ gui.InstrumentPanel$4
+ gui.InstrumentPanel$5
+ gui.InstrumentPanel$6
+ gui.InstrumentPanel$7
+jm/music/data/Part.java
+ jm.music.data.Part
+jm/constants/Alignments.java
+ jm.constants.Alignments
+jm/constants/Volumes.java
+ jm.constants.Volumes
+jm/gui/cpn/ToolkitImages.java
+ jm.gui.cpn.ToolkitImages
+jm/midi/event/PChange.java
+ jm.midi.event.PChange
+jm/music/data/Phrase.java
+ jm.music.data.Phrase
+ jm.music.data.Phrase$Position
+core/data/tonality/Tonality.java
+ core.data.tonality.Tonality
+jm/midi/MidiInputListener.java
+ jm.midi.MidiInputListener
+jm/constants/Durations.java
+ jm.constants.Durations
+jm/midi/event/PWheel.java
+ jm.midi.event.PWheel
+jm/util/Write.java
+ jm.util.Write
+jm/gui/cpn/Stave.java
+ jm.gui.cpn.Stave
+core/generators/multigen/AccompanimentGenerator.java
+ core.generators.multigen.AccompanimentGenerator
+jm/music/tools/PhraseAnalysis.java
+ jm.music.tools.PhraseAnalysis
+core/generators/Harmonizer.java
+ core.generators.Harmonizer
+jm/midi/RTMidiIn.java
+ jm.midi.RTMidiIn
+jm/util/Read.java
+ jm.util.Read
+ jm.util.Read$1
+ jm.util.Read$2
+ jm.util.Read$JmMidiProcessor
+jm/music/data/Tempo.java
+ jm.music.data.Tempo
+jm/midi/event/EndTrack.java
+ jm.midi.event.EndTrack
+jm/gui/cpn/BassStave.java
+ jm.gui.cpn.BassStave
+jm/gui/cpn/JStaveActionHandler.java
+ jm.gui.cpn.JStaveActionHandler
+core/MusicGeneratorManager.java
+ core.MusicGeneratorManager
+jm/music/data/Alignment.java
+ jm.music.data.Alignment
+ jm.music.data.Alignment$1
+ jm.music.data.Alignment$2
+ jm.music.data.Alignment$3
+ jm.music.data.Alignment$4
+ jm.music.data.Alignment$5
+ jm.music.data.Alignment$6
+ jm.music.data.Alignment$7
+ jm.music.data.Alignment$8
+ jm.music.data.Alignment$9
+jm/music/tools/ChordAnalysis.java
+ jm.music.tools.ChordAnalysis
+ jm.music.tools.ChordAnalysis$Possible
+jm/midi/event/CChange.java
+ jm.midi.event.CChange
+jm/constants/Waveforms.java
+ jm.constants.Waveforms
+gui/HeaderPanel.java
+ gui.HeaderPanel
+ gui.HeaderPanel$1
+ gui.HeaderPanel$10
+ gui.HeaderPanel$2
+ gui.HeaderPanel$3
+ gui.HeaderPanel$4
+ gui.HeaderPanel$5
+ gui.HeaderPanel$6
+ gui.HeaderPanel$7
+ gui.HeaderPanel$8
+ gui.HeaderPanel$9
+core/data/patterns/Pattern.java
+ core.data.patterns.Pattern
+jm/midi/event/VoiceEvt.java
+ jm.midi.event.VoiceEvt
+util/FileEncoder.java
+ util.FileEncoder
+core/data/patterns/CPattern.java
+ core.data.patterns.CPattern
+jm/midi/SMF.java
+ jm.midi.SMF
+core/data/chords/MinorChord.java
+ core.data.chords.MinorChord
+jm/gui/cpn/JmMidiPlayer.java
+ jm.gui.cpn.JmMidiPlayer
+core/data/chords/MajorChord.java
+ core.data.chords.MajorChord
+core/RandomManager.java
+ core.RandomManager
+jm/midi/event/NoteOff.java
+ jm.midi.event.NoteOff
+core/data/tonality/MajorTonality.java
+ core.data.tonality.MajorTonality
+gui/MainPanel.java
+ gui.MainPanel
+jm/constants/Frequencies.java
+ jm.constants.Frequencies
+jm/constants/Dynamics.java
+ jm.constants.Dynamics
+jm/midi/MidiSynth.java
+ jm.midi.MidiSynth
+gui/GUI.java
+ gui.GUI
+util/TStamps.java
+ util.TStamps
+core/record/RecordEvent.java
+ core.record.RecordEvent
+jm/gui/cpn/LetterNotesEditor.java
+ jm.gui.cpn.LetterNotesEditor
+jm/constants/Noises.java
+ jm.constants.Noises
+jm/music/data/Score.java
+ jm.music.data.Score
+jm/gui/cpn/GrandStave.java
+ jm.gui.cpn.GrandStave
+core/data/chords/DimChord.java
+ core.data.chords.DimChord
+jm/music/data/Note.java
+ jm.music.data.Note
+jm/midi/event/SysComEvt.java
+ jm.midi.event.SysComEvt
+jm/constants/DrumMap.java
+ jm.constants.DrumMap
+jm/midi/event/KeySig.java
+ jm.midi.event.KeySig
+core/data/chords/AugChord.java
+ core.data.chords.AugChord
+core/generators/multigen/SecondVoiceGenerator.java
+ core.generators.multigen.SecondVoiceGenerator
+jm/midi/Track.java
+ jm.midi.Track
+jm/JMC.java
+ jm.JMC
+jm/constants/ProgramChanges.java
+ jm.constants.ProgramChanges
+core/data/PConstants.java
+ core.data.PConstants
+jm/util/ConversionException.java
+ jm.util.ConversionException
+core/data/structure/MotiveStructureStorage.java
+ core.data.structure.MotiveStructureStorage
+jm/gui/cpn/Images.java
+ jm.gui.cpn.Images
+core/data/DataStorage.java
+ core.data.DataStorage
+core/generators/multigen/MultiVoicesGenerator.java
+ core.generators.multigen.MultiVoicesGenerator
+jm/midi/MidiUtil.java
+ jm.midi.MidiUtil
+jm/midi/event/TimeSig.java
+ jm.midi.event.TimeSig
+core/data/Voice.java
+ core.data.Voice
+jm/midi/event/TempoEvent.java
+ jm.midi.event.TempoEvent
+jm/gui/cpn/PhraseViewer.java
+ jm.gui.cpn.PhraseViewer
+gui/RecordFrame.java
+ gui.RecordFrame
+ gui.RecordFrame$1
+ gui.RecordFrame$2
+ gui.RecordFrame$3
+ gui.RecordFrame$4
+core/generators/IMusicGenerator.java
+ core.generators.IMusicGenerator
+player/FileOutputPlayer.java
+ player.FileOutputPlayer
+jm/util/XMLParser.java
+ jm.util.Attribute
+ jm.util.Element
+ jm.util.StandardXMLStyle
+ jm.util.XMLParser
+ jm.util.XMLStyle
+ jm.util.XMLStyles
+core/data/Motive.java
+ core.data.Motive
+core/record/RecordsManager.java
+ core.record.RecordsManager
+gui/MainFrame.java
+ gui.MainFrame
+ gui.MainFrame$1
+ gui.MainFrame$2
+core/data/PInstrument.java
+ core.data.PInstrument
+jm/constants/Scales.java
+ jm.constants.Scales
+util/Log.java
+ util.Log
+jm/gui/cpn/StavePhraseProperties.java
+ jm.gui.cpn.StavePhraseProperties
